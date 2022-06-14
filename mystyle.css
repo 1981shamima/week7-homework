@@ -1,0 +1,166 @@
+.H1{
+background-color: rgb(220, 98, 68);
+border: 3px dashed ;
+   
+    font-size: 25px;
+    padding: 80px  120px 100px;
+    text-underline-position: below;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    color:yellow;
+}
+.H2{
+
+        background-color: rgb(23, 199, 199);
+        border: 3px dashed ;
+        text-underline-position: below;
+        text-align: center;
+        font-style: italic;
+        text-decoration: underline;
+            
+            font-size: 20px;
+            padding: 80px 90px 70px;
+            color:yellow;
+}
+.H3{
+background-color: rgb(23, 199, 199);
+border: 3px dashed ;
+text-underline-position: below;
+text-align: center;
+font-style: italic;
+text-decoration: underline;
+color: yellow;
+    
+    font-size: 20px;
+    padding: 80px 90px 70px;
+}
+.H4{
+background-color: rgb(138, 87, 24);
+border: 3px dashed ;
+font-style: italic;
+text-decoration: underline;
+ 
+    font-size: 20px;
+    padding: 90px 110px 100px;
+    
+    text-align: center;
+    color: yellow;
+}
+.order1{
+    background-color: rgb(211, 243, 151);
+   border: 2px solid;
+   height: 300px;
+ 
+    font-size: 30px;
+    padding:  70px 90px;
+    padding-bottom: 30px;
+    color: orange; 
+    
+}
+.order2{
+background-color: rgb(121, 130, 103);
+border: 3px solid;
+ 
+    font-size: 30px;
+    padding: 80px 70px 90px;
+    color: brown;
+}
+.order3{
+background-color: rgb(186, 147, 223);
+border: 3px solid ;
+  
+    font-size: 30px;
+    padding: 80px 70px 87px;
+    color: orange;
+}
+.order4{
+background-color: rgb(172, 172, 21);
+border: 3px solid ;
+  
+    font-size: 30px;
+    padding: 95px 70px 98px;
+    color: orange;
+}
+.pic1{
+background-color: rgb(157, 129, 157);
+border: 3px dashed ;
+padding: 100px  800px  100px;
+
+  
+  
+}
+.pic2{
+background-color: rgb(224, 208, 64);
+border: 3px dashed ;
+    
+  
+    padding: 50px 800px 50px;
+}
+.pic3{
+background-color: aqua;
+border: 3px dashed ;
+ 
+   
+    padding: 55px 800px 50px;
+}
+.pic4{
+background-color: rgb(53, 49, 61);
+border: 3px dashed ;
+    
+  
+    padding: 50px 800px 50px;
+}
+.para1{
+background-color: aquamarine;
+border: 3px dashed ;
+  
+    font-size: 30px;
+    padding: 30px 150px 30px;
+    color: orange;
+}
+.para2{
+background-color: rgb(122, 184, 184);
+border: 3px dashed ;
+    
+    font-size: 30px;
+    padding:30px 150px 40px;
+    color: yellow;
+}
+.para3{
+
+    background-color: rgb(130, 165, 42);
+    border: 3px dashed ;
+ 
+    font-size: 30px;
+    padding: 35px 40px 45px;
+    color: brown;
+}
+.para4{
+background-color: rgb(196, 248, 255);
+border: 2px dashed;
+font-size: 25px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding: 30px 40px  30px;
+color: blue;
+
+}
+ul{
+    margin: 0px   ;
+  
+    
+
+}
+p{
+    margin: 0px;
+ 
+    
+}
+h1{
+    margin: 0px;
+
+}
+
+
+
+
